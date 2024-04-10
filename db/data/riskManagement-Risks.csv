@@ -1,0 +1,6 @@
+ID;risksID;description;impact;criticality;mitigation_ID
+37563e43-b7e6-462e-bd56-9ebd9852a6db;R001;Data breach;15000;8;37563e43-b7e6-462e-bd56-9ebd9852a6db
+2ca0bc29-6779-4e98-98f4-53f6106ef766;R002;System failure;10000;6;2ca0bc29-6779-4e98-98f4-53f6106ef766
+6d89e9d4-c948-419e-883b-18b3ca49b237;R003;Unauthorized access;8000;5;6d89e9d4-c948-419e-883b-18b3ca49b237
+c58c4439-101a-4e8c-a0c3-a39ab94426cf;R004;Employee negligence;12000;7;c58c4439-101a-4e8c-a0c3-a39ab94426cf
+f0ab0bf0-ed9a-4284-805b-61de404fc104;R005;Vendor risk;6000;4;f0ab0bf0-ed9a-4284-805b-61de404fc104

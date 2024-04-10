@@ -1,0 +1,6 @@
+ID;mitigationsID;description;counter
+37563e43-b7e6-462e-bd56-9ebd9852a6db;M001;Implement regular backups;5
+2ca0bc29-6779-4e98-98f4-53f6106ef766;M002;Install antivirus software;10
+6d89e9d4-c948-419e-883b-18b3ca49b237;M003;Implement access controls;8
+c58c4439-101a-4e8c-a0c3-a39ab94426cf;M004;Train employees on security best practices;12
+f0ab0bf0-ed9a-4284-805b-61de404fc104;M005;Perform regular security audits;6
