@@ -1,0 +1,2 @@
+sap.ui.require(["sap/fe/test/JourneyRunner","velocity/MyApplication/test/integration/FirstJourney","velocity/MyApplication/test/integration/pages/RisksList","velocity/MyApplication/test/integration/pages/RisksObjectPage"],function(i,t,e,n){"use strict";var i=new i({launchUrl:sap.ui.require.toUrl("velocity/MyApplication")+"/index.html"});i.run({pages:{onTheRisksList:e,onTheRisksObjectPage:n}},t.run)});
+//# sourceMappingURL=opaTests.qunit.js.map
